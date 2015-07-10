@@ -1,0 +1,1 @@
+c:\users\anderson\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\bin\Debug\NamespacesAndReferencingAssemblies.exe.config

@@ -1,0 +1,13 @@
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WPFEvents.exe.config
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WPFEvents.exe
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WPFEvents.pdb
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WPFEvents_MarkupCompile.cache
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WPFEvents.g.resources
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WPFEvents.Properties.Resources.resources
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WPFEvents.exe
+c:\users\anderson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WPFEvents.pdb

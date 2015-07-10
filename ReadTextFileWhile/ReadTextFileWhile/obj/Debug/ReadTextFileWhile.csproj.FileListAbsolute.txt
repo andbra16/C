@@ -1,0 +1,6 @@
+c:\users\anderson\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+c:\users\anderson\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+c:\users\anderson\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+c:\users\anderson\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+c:\users\anderson\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\Users\Anderson\Documents\Visual Studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values1.txt
